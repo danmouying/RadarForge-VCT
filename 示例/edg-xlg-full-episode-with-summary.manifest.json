@@ -1,0 +1,894 @@
+{
+  "title": "EDG vs XLG 3:2 Full Episode with Summary",
+  "maps": [
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 0,
+        "rightScore": 1,
+        "mapName": "裂变峡谷",
+        "label": "Map 1",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftStartingSide": "defense",
+        "rightStartingSide": "attack",
+        "leftMapScore": 6,
+        "rightMapScore": 13,
+        "mapName": "裂变峡谷",
+        "mapImage": "image/maps/裂变峡谷.jpg",
+        "summaryTitle": "裂变峡谷",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "56/79/32",
+          "acs": 175,
+          "adr": 116,
+          "kast": "66%"
+        },
+        "rightTeamStats": {
+          "kda": "79/56/40",
+          "acs": 228,
+          "adr": 141.8,
+          "kast": "83%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 2,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 3,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 4,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 5,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 6,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 7,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 8,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 9,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 10,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 11,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 12,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 13,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 14,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 15,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 16,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 17,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 18,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 19,
+            "winner": "XLG",
+            "method": "elimination"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map1_Rarga.json",
+        "exports/map1_WsLeo.json",
+        "exports/map1_CHICHOO.json",
+        "exports/map1_Lysoar.json",
+        "exports/map1_NoMan.json",
+        "exports/map1_Smoggy.json",
+        "exports/map1_happywei.json",
+        "exports/map1_ZmjjKK.json",
+        "exports/map1_nobody.json",
+        "exports/map1_Jieni7.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 1,
+        "rightScore": 1,
+        "mapName": "霓虹町",
+        "label": "Map 2",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftStartingSide": "defense",
+        "rightStartingSide": "attack",
+        "leftMapScore": 15,
+        "rightMapScore": 13,
+        "mapName": "霓虹町",
+        "mapImage": "image/maps/霓虹町.jpg",
+        "summaryTitle": "霓虹町",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "108/96/48",
+          "acs": 222,
+          "adr": 147.4,
+          "kast": "78%"
+        },
+        "rightTeamStats": {
+          "kda": "96/108/35",
+          "acs": 200,
+          "adr": 130.8,
+          "kast": "74%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 2,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 3,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 4,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 5,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 6,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 7,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 8,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 9,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 10,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 11,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 12,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 13,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 14,
+            "winner": "XLG",
+            "method": "time"
+          },
+          {
+            "round": 15,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 16,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 17,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 18,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 19,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 20,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 21,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 22,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 23,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 24,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 25,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 26,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 27,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 28,
+            "winner": "EDG",
+            "method": "elimination"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map2_ZmjjKK.json",
+        "exports/map2_WsLeo.json",
+        "exports/map2_CHICHOO.json",
+        "exports/map2_Jieni7.json",
+        "exports/map2_Smoggy.json",
+        "exports/map2_happywei.json",
+        "exports/map2_Lysoar.json",
+        "exports/map2_Rarga.json",
+        "exports/map2_nobody.json",
+        "exports/map2_NoMan.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 2,
+        "rightScore": 1,
+        "mapName": "微风岛屿",
+        "label": "Map 3",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftStartingSide": "defense",
+        "rightStartingSide": "attack",
+        "leftMapScore": 13,
+        "rightMapScore": 5,
+        "mapName": "微风岛屿",
+        "mapImage": "image/maps/微风岛屿.jpg",
+        "summaryTitle": "微风岛屿",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "72/43/27",
+          "acs": 221,
+          "adr": 152.2,
+          "kast": "80%"
+        },
+        "rightTeamStats": {
+          "kda": "43/72/24",
+          "acs": 149,
+          "adr": 97.6,
+          "kast": "62%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 2,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 3,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 4,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 5,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 6,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 7,
+            "winner": "EDG",
+            "method": "time"
+          },
+          {
+            "round": 8,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 9,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 10,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 11,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 12,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 13,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 14,
+            "winner": "XLG",
+            "method": "time"
+          },
+          {
+            "round": 15,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 16,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 17,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 18,
+            "winner": "EDG",
+            "method": "detonation"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map3_CHICHOO.json",
+        "exports/map3_Jieni7.json",
+        "exports/map3_ZmjjKK.json",
+        "exports/map3_Smoggy.json",
+        "exports/map3_WsLeo.json",
+        "exports/map3_happywei.json",
+        "exports/map3_nobody.json",
+        "exports/map3_NoMan.json",
+        "exports/map3_Rarga.json",
+        "exports/map3_Lysoar.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 2,
+        "rightScore": 2,
+        "mapName": "隐世修所",
+        "label": "Map 4",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftStartingSide": "attack",
+        "rightStartingSide": "defense",
+        "leftMapScore": 9,
+        "rightMapScore": 13,
+        "mapName": "隐世修所",
+        "mapImage": "image/maps/隐士修所.jpg",
+        "summaryTitle": "隐世修所",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "74/84/30",
+          "acs": 194,
+          "adr": 131.4,
+          "kast": "72%"
+        },
+        "rightTeamStats": {
+          "kda": "84/74/31",
+          "acs": 221,
+          "adr": 155.2,
+          "kast": "80%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 2,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 3,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 4,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 5,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 6,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 7,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 8,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 9,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 10,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 11,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 12,
+            "winner": "XLG",
+            "method": "defuse"
+          },
+          {
+            "round": 13,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 14,
+            "winner": "EDG",
+            "method": "time"
+          },
+          {
+            "round": 15,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 16,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 17,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 18,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 19,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 20,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 21,
+            "winner": "XLG",
+            "method": "detonation"
+          },
+          {
+            "round": 22,
+            "winner": "XLG",
+            "method": "elimination"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map4_NoMan.json",
+        "exports/map4_Smoggy.json",
+        "exports/map4_Lysoar.json",
+        "exports/map4_happywei.json",
+        "exports/map4_ZmjjKK.json",
+        "exports/map4_Rarga.json",
+        "exports/map4_CHICHOO.json",
+        "exports/map4_WsLeo.json",
+        "exports/map4_nobody.json",
+        "exports/map4_Jieni7.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 3,
+        "rightScore": 2,
+        "mapName": "深海明珠",
+        "label": "Map 5",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftStartingSide": "defense",
+        "rightStartingSide": "attack",
+        "leftMapScore": 13,
+        "rightMapScore": 4,
+        "mapName": "深海明珠",
+        "mapImage": "image/maps/深海明珠.jpg",
+        "summaryTitle": "深海明珠",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "73/47/29",
+          "acs": 230,
+          "adr": 148.6,
+          "kast": "84%"
+        },
+        "rightTeamStats": {
+          "kda": "47/73/21",
+          "acs": 166,
+          "adr": 108.4,
+          "kast": "62%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 2,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 3,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 4,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 5,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 6,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 7,
+            "winner": "EDG",
+            "method": "time"
+          },
+          {
+            "round": 8,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 9,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 10,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 11,
+            "winner": "XLG",
+            "method": "elimination"
+          },
+          {
+            "round": 12,
+            "winner": "EDG",
+            "method": "defuse"
+          },
+          {
+            "round": 13,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 14,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 15,
+            "winner": "EDG",
+            "method": "detonation"
+          },
+          {
+            "round": 16,
+            "winner": "EDG",
+            "method": "elimination"
+          },
+          {
+            "round": 17,
+            "winner": "EDG",
+            "method": "elimination"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map5_Smoggy.json",
+        "exports/map5_Jieni7.json",
+        "exports/map5_CHICHOO.json",
+        "exports/map5_ZmjjKK.json",
+        "exports/map5_happywei.json",
+        "exports/map5_WsLeo.json",
+        "exports/map5_nobody.json",
+        "exports/map5_NoMan.json",
+        "exports/map5_Lysoar.json",
+        "exports/map5_Rarga.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 3,
+        "rightScore": 2,
+        "mapName": "整场总结",
+        "label": "Summary",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "type": "series",
+        "label": "Summary",
+        "leftTeamName": "EDG",
+        "rightTeamName": "XLG",
+        "leftTeamLogo": "image/team-logos/EDG.jpg",
+        "rightTeamLogo": "image/team-logos/XLG.jpg",
+        "leftScore": 3,
+        "rightScore": 2,
+        "summaryTitle": "整场总结",
+        "summaryText": "",
+        "theme": "white-red",
+        "duration": 5,
+        "leftTeamStats": {
+          "kda": "383/349/166",
+          "acs": 208.6,
+          "adr": 139.3,
+          "kast": "75.9%"
+        },
+        "rightTeamStats": {
+          "kda": "349/383/151",
+          "acs": 195.2,
+          "adr": 128.6,
+          "kast": "72.9%"
+        },
+        "mapResults": [
+          {
+            "label": "Map 1",
+            "mapName": "裂变峡谷",
+            "mapImage": "image/maps/裂变峡谷.jpg",
+            "leftMapScore": 6,
+            "rightMapScore": 13
+          },
+          {
+            "label": "Map 2",
+            "mapName": "霓虹町",
+            "mapImage": "image/maps/霓虹町.jpg",
+            "leftMapScore": 15,
+            "rightMapScore": 13
+          },
+          {
+            "label": "Map 3",
+            "mapName": "微风岛屿",
+            "mapImage": "image/maps/微风岛屿.jpg",
+            "leftMapScore": 13,
+            "rightMapScore": 5
+          },
+          {
+            "label": "Map 4",
+            "mapName": "隐世修所",
+            "mapImage": "image/maps/隐士修所.jpg",
+            "leftMapScore": 9,
+            "rightMapScore": 13
+          },
+          {
+            "label": "Map 5",
+            "mapName": "深海明珠",
+            "mapImage": "image/maps/深海明珠.jpg",
+            "leftMapScore": 13,
+            "rightMapScore": 4
+          }
+        ]
+      },
+      "items": [
+        "exports/summary_Smoggy.json",
+        "exports/summary_CHICHOO.json",
+        "exports/summary_ZmjjKK.json",
+        "exports/summary_WsLeo.json",
+        "exports/summary_Rarga.json",
+        "exports/summary_NoMan.json",
+        "exports/summary_Jieni7.json",
+        "exports/summary_happywei.json",
+        "exports/summary_Lysoar.json",
+        "exports/summary_nobody.json"
+      ]
+    }
+  ]
+}

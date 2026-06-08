@@ -1,0 +1,423 @@
+{
+  "title": "VIT vs DRG 2:0 Full Episode with Summary",
+  "maps": [
+    {
+      "transition": {
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftScore": 1,
+        "rightScore": 0,
+        "mapName": "莲华古城",
+        "label": "Map 1",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftStartingSide": "defense",
+        "rightStartingSide": "attack",
+        "leftMapScore": 13,
+        "rightMapScore": 5,
+        "mapName": "莲华古城",
+        "mapImage": "image/maps/莲华古城.jpg",
+        "summaryTitle": "莲华古城",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "78/45/25",
+          "acs": 233.4,
+          "adr": 152.6,
+          "kast": "80.0%"
+        },
+        "rightTeamStats": {
+          "kda": "45/78/16",
+          "acs": 151.0,
+          "adr": 99.0,
+          "kast": "47.8%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 2,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 3,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 4,
+            "winner": "DRG",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 5,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 6,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 7,
+            "winner": "DRG",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 8,
+            "winner": "VIT",
+            "method": "defuse",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 9,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 10,
+            "winner": "DRG",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 11,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 12,
+            "winner": "DRG",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 13,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 14,
+            "winner": "DRG",
+            "method": "time",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 15,
+            "winner": "VIT",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 16,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 17,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 18,
+            "winner": "VIT",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map1_Flex1n.json",
+        "exports/map1_SpiritZ1.json",
+        "exports/map1_Nicc.json",
+        "exports/map1_Life.json",
+        "exports/map1_Chronicle.json",
+        "exports/map1_vo0kashu.json",
+        "exports/map1_PROFEK.json",
+        "exports/map1_Jamppi.json",
+        "exports/map1_Derke.json",
+        "exports/map1_sayonara.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftScore": 2,
+        "rightScore": 0,
+        "mapName": "微风岛屿",
+        "label": "Map 2",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftStartingSide": "attack",
+        "rightStartingSide": "defense",
+        "leftMapScore": 13,
+        "rightMapScore": 3,
+        "mapName": "微风岛屿",
+        "mapImage": "image/maps/微风岛屿.jpg",
+        "summaryTitle": "微风岛屿",
+        "summaryText": "",
+        "leftTeamStats": {
+          "kda": "68/45/21",
+          "acs": 219.6,
+          "adr": 144.4,
+          "kast": "75.2%"
+        },
+        "rightTeamStats": {
+          "kda": "45/68/17",
+          "acs": 170.4,
+          "adr": 116.6,
+          "kast": "57.6%"
+        },
+        "roundEvents": [
+          {
+            "round": 1,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 2,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 3,
+            "winner": "DRG",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 4,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 5,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 6,
+            "winner": "VIT",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 7,
+            "winner": "DRG",
+            "method": "time",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 8,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 9,
+            "winner": "VIT",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 10,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 11,
+            "winner": "DRG",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 12,
+            "winner": "VIT",
+            "method": "detonation",
+            "winnerSide": "attack",
+            "winnerColor": "red"
+          },
+          {
+            "round": 13,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 14,
+            "winner": "VIT",
+            "method": "time",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 15,
+            "winner": "VIT",
+            "method": "elimination",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          },
+          {
+            "round": 16,
+            "winner": "VIT",
+            "method": "defuse",
+            "winnerSide": "defense",
+            "winnerColor": "blue"
+          }
+        ],
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "items": [
+        "exports/map2_Flex1n.json",
+        "exports/map2_SpiritZ1.json",
+        "exports/map2_Jamppi.json",
+        "exports/map2_Nicc.json",
+        "exports/map2_Life.json",
+        "exports/map2_vo0kashu.json",
+        "exports/map2_PROFEK.json",
+        "exports/map2_Chronicle.json",
+        "exports/map2_Derke.json",
+        "exports/map2_sayonara.json"
+      ]
+    },
+    {
+      "transition": {
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftScore": 2,
+        "rightScore": 0,
+        "mapName": "整场总结",
+        "label": "Summary",
+        "duration": 4,
+        "theme": "white-red"
+      },
+      "summary": {
+        "type": "series",
+        "label": "Summary",
+        "leftTeamName": "VIT",
+        "rightTeamName": "DRG",
+        "leftTeamLogo": "image/team-logos/VIT.jpg",
+        "rightTeamLogo": "image/team-logos/DRG.jpg",
+        "leftScore": 2,
+        "rightScore": 0,
+        "summaryTitle": "整场总结",
+        "summaryText": "",
+        "theme": "white-red",
+        "duration": 5,
+        "leftTeamStats": {
+          "kda": "146/90/46",
+          "acs": 226.6,
+          "adr": 148.6,
+          "kast": "77.6%"
+        },
+        "rightTeamStats": {
+          "kda": "90/146/33",
+          "acs": 161.0,
+          "adr": 107.2,
+          "kast": "52.4%"
+        },
+        "mapResults": [
+          {
+            "label": "Map 1",
+            "mapName": "莲华古城",
+            "mapImage": "image/maps/莲华古城.jpg",
+            "leftMapScore": 13,
+            "rightMapScore": 5
+          },
+          {
+            "label": "Map 2",
+            "mapName": "微风岛屿",
+            "mapImage": "image/maps/微风岛屿.jpg",
+            "leftMapScore": 13,
+            "rightMapScore": 3
+          }
+        ]
+      },
+      "items": [
+        "exports/summary_Flex1n.json",
+        "exports/summary_SpiritZ1.json",
+        "exports/summary_Nicc.json",
+        "exports/summary_Life.json",
+        "exports/summary_vo0kashu.json",
+        "exports/summary_Chronicle.json",
+        "exports/summary_Jamppi.json",
+        "exports/summary_PROFEK.json",
+        "exports/summary_Derke.json",
+        "exports/summary_sayonara.json"
+      ]
+    }
+  ]
+}
