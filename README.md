@@ -1,6 +1,6 @@
 # RadarForge
 
-RadarForge 是一个面向自媒体内容创作的雷达图生成工具，基于 React、Tailwind CSS 和 Apache ECharts。
+RadarForge 是一个面向自媒体内容创作的雷达图生成工具，通过命令一键式生成雷达图，解决了视频制作流程同质化严重，减少视频制作周期。基于 React、Tailwind CSS 和 Apache ECharts。
 
 ## 启动命令
 
